@@ -1,0 +1,10 @@
+node_modules/
+**/node_modules/
+.env
+**/.env
+.expo/
+.cache/
+CLAUDE.md
+AGENTS.md
+**/CLAUDE.md
+**/AGENTS.md
